@@ -1,0 +1,506 @@
+.header1 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: #4a5c2f;
+}
+.fotoperfil-icon {
+  	position: absolute;
+  	top: calc(50% - 52.5px);
+  	right: 39px;
+  	border-radius: 50%;
+  	width: 104px;
+  	height: 104px;
+  	object-fit: cover;
+}
+.recetas {
+  	position: relative;
+}
+.tecnicas {
+  	position: absolute;
+  	top: 94px;
+  	left: 603px;
+  	border-radius: 15px;
+  	background-color: #4a5c2f;
+  	height: 48px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 19px;
+  	box-sizing: border-box;
+}
+.sopaarte {
+  	position: absolute;
+  	top: 94px;
+  	left: 931px;
+  	border-radius: 15px;
+  	background-color: #4a5c2f;
+  	height: 48px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 19px;
+  	box-sizing: border-box;
+}
+.recetas2 {
+  	position: absolute;
+  	top: 94px;
+  	left: 400px;
+  	border-radius: 15px;
+  	background-color: #4a5c2f;
+  	height: 48px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 19px;
+  	box-sizing: border-box;
+}
+.boullion-logo-1-icon {
+  	position: absolute;
+  	top: calc(50% - 51.5px);
+  	left: 46px;
+  	width: 309px;
+  	height: 103px;
+  	object-fit: cover;
+}
+.header {
+  	width: 1920px;
+  	position: relative;
+  	background-color: #556b34;
+  	height: 201px;
+}
+.encabezado-home {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	min-width: 360px;
+  	max-width: 1920px;
+  	color: #fffefb;
+}
+.cada-cucharada-una-experienci {
+  	margin: 0;
+}
+.texto {
+  	border-radius: 10px;
+  	background-color: #ffb627;
+  	height: 40px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 2px 12px;
+  	box-sizing: border-box;
+}
+.imagencentral {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 127px 73px;
+  	gap: 14px;
+  	background-image: url('imagencentral.png');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: top;
+}
+.central-home {
+  	width: 1920px;
+  	height: 453px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	color: #fff;
+}
+.en {
+  	font-family: Inter;
+}
+.presentacion {
+  	width: 1794px;
+  	position: relative;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.presentacion-wrapper {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	text-align: center;
+}
+.carrusel-child {
+  	flex: 1;
+  	position: relative;
+  	background-color: #e7ae3f;
+  	height: 453px;
+  	z-index: 0;
+}
+.carrusel-01-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1px;
+  	height: 453px;
+  	object-fit: cover;
+}
+.carrusel-01-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 1094px;
+  	width: 1px;
+  	height: 453px;
+  	object-fit: cover;
+}
+.carrusel-01-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 2188px;
+  	width: 1px;
+  	height: 453px;
+  	object-fit: cover;
+}
+.frame-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 3282px;
+  	width: 1px;
+  	height: 453px;
+  	object-fit: cover;
+}
+.group-icon {
+  	position: absolute;
+  	top: 227px;
+  	left: 37px;
+  	width: 1020px;
+  	height: 54px;
+}
+.carrusel-01 {
+  	width: 1094px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	left: 0px;
+  	height: 453px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 1;
+}
+.explora-el-alma-container {
+  	width: 735px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 155px;
+  	right: 43px;
+  	display: inline-block;
+  	z-index: 2;
+}
+.texto1 {
+  	margin: 0 !important;
+  	position: absolute;
+  	top: calc(50% + 60.5px);
+  	right: 39px;
+  	border-radius: 10px;
+  	background-color: #ffb627;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 2px 12px;
+  	z-index: 3;
+  	color: #fff;
+}
+.carrusel {
+  	align-self: stretch;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	flex-wrap: wrap;
+  	align-content: center;
+  	position: relative;
+  	gap: 45px;
+}
+.carrusel-wrapper {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.clasica-home-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 32px;
+  	border-radius: 50%;
+  	width: 218px;
+  	height: 218px;
+  	object-fit: cover;
+}
+.mundo-home-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 470px;
+  	border-radius: 50%;
+  	width: 218px;
+  	height: 218px;
+  	object-fit: cover;
+}
+.vegana-home-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 908px;
+  	border-radius: 50%;
+  	width: 218px;
+  	height: 218px;
+  	object-fit: cover;
+}
+.temporada-home-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 1346px;
+  	border-radius: 50%;
+  	width: 218px;
+  	height: 218px;
+  	object-fit: cover;
+}
+.clsicas-de-siempre-recetas-container {
+  	position: absolute;
+  	top: 241px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 282px;
+}
+.sabores-del-mundo-container {
+  	position: absolute;
+  	top: 241px;
+  	left: 438px;
+  	display: inline-block;
+  	width: 282px;
+}
+.veganas-naturales-container {
+  	position: absolute;
+  	top: 241px;
+  	left: 876px;
+  	display: inline-block;
+  	width: 282px;
+}
+.sopas-de-temporada-container {
+  	position: absolute;
+  	top: 241px;
+  	left: 1314px;
+  	display: inline-block;
+  	width: 282px;
+}
+.sopas {
+  	width: 1596px;
+  	position: relative;
+  	height: 337px;
+}
+.sopasimagenes {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	text-align: center;
+  	font-size: 20px;
+}
+.footer-child {
+  	position: absolute;
+  	width: 100%;
+  	top: calc(50% - 54.5px);
+  	right: 0%;
+  	left: 0%;
+  	background-color: #696969;
+  	height: 109px;
+}
+.sobre-nosotros {
+  	position: absolute;
+  	bottom: 42px;
+  	left: 78px;
+}
+.aviso-de-privacidad {
+  	position: absolute;
+  	bottom: 42px;
+  	left: 288px;
+}
+.fb-icon {
+  	position: absolute;
+  	right: 167.67px;
+  	bottom: 26px;
+  	width: 53.7px;
+  	height: 56px;
+  	cursor: pointer;
+}
+.ig-icon {
+  	position: absolute;
+  	right: 104.42px;
+  	bottom: 26px;
+  	width: 53.7px;
+  	height: 56px;
+  	cursor: pointer;
+}
+.tt-icon {
+  	position: absolute;
+  	right: 41.17px;
+  	bottom: 26px;
+  	width: 53.7px;
+  	height: 56px;
+  	cursor: pointer;
+}
+.footer {
+  	flex: 1;
+  	position: relative;
+  	height: 109px;
+}
+.footer-wrapper {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 20px 0px;
+  	font-size: 20px;
+  	color: #fff;
+}
+.home {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fdfaf2;
+  	height: 2307px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 50px;
+  	min-width: 360px;
+  	min-height: 432.56px;
+  	text-align: left;
+  	font-size: 30px;
+  	color: #201e1e;
+  	font-family: Inter;
+}
+
+
+.nosotros-over-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: -98px;
+  	width: 1875.6px;
+  	height: 949px;
+  	object-fit: cover;
+}
+.sobre-nosotros-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #e7ae3f;
+  	width: 1761px;
+  	height: 29px;
+}
+.sobre-nosotros-item {
+  	position: absolute;
+  	top: 891px;
+  	left: 0px;
+  	width: 1761px;
+  	height: 55px;
+}
+.en1 {
+  	font-family: Inter;
+}
+.en-bouillon-todo-nace-de-un-g {
+  	margin: 0;
+}
+.en-bouillon-todo-container1 {
+  	width: 100%;
+}
+.en-bouillon-todo-container {
+  	position: absolute;
+  	top: 265px;
+  	left: 142px;
+  	display: flex;
+  	align-items: center;
+  	width: 1477px;
+  	height: 518px;
+  	text-shadow: 0px 4px 1.9px #0f0000;
+}
+.nuestra-historia-comienza {
+  	position: absolute;
+  	top: 99px;
+  	left: 109px;
+  	font-size: 60px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 1542px;
+  	height: 253px;
+  	text-shadow: 0px 4px 4px #0f0000;
+}
+.x-icon {
+  	position: absolute;
+  	top: 42px;
+  	left: 1695px;
+  	width: 43px;
+  	height: 29px;
+}
+.sobre-nosotros1 {
+  	width: 1761px;
+  	position: relative;
+  	box-shadow: 7px 9px 7.8px rgba(105, 105, 105, 0.5);
+  	background-color: #696969;
+  	height: 939px;
+  	overflow: hidden;
+  	max-width: 90%;
+  	max-height: 90%;
+  	text-align: center;
+  	font-size: 30px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
+
+.perfil1 {
+  	position: relative;
+}
+.perfil {
+  	background-color: #ffb627;
+  	height: 20px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.perfil-01 {
+  	width: 150px;
+  	position: relative;
+  	border-radius: 5px;
+  	background-color: #ffb627;
+  	height: 100px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	max-width: 90%;
+  	max-height: 90%;
+  	overflow: auto;
+  	text-align: left;
+  	font-size: 12px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
